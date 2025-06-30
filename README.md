@@ -22,3 +22,22 @@ Instagram: @codedinpastels
 GitHub: @codedinpastels
 ```
 
+## 🌸 Portfolio
+
+[https://desktop-portfolio-nine.vercel.app/](https://desktop-portfolio-nine.vercel.app/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedinpastels&show_icons=true&locale=en&layout=compact&theme=radical" alt="codedinpastels" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedinpastels&theme=radical" alt="codedinpastels" />
+</p>
+
+<br clear="both"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codedinpastels&theme=radical&area=true&hide_border=true)
