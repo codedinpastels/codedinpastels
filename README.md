@@ -29,18 +29,19 @@ GitHub: @codedinpastels
 ---
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/python.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/sql.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/codedinpastels/codedinpastels/blob/master/Assets/figma.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+
 
 <br />
 <br />
@@ -68,7 +69,7 @@ GitHub: @codedinpastels
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codedinpastels&theme=radical)](https://github.com/codedinpastels)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Coded In Pastel's&theme=radical)](https://github.com/codedinpastels)
 
 <br>
 <br>
