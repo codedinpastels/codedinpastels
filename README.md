@@ -69,7 +69,7 @@ GitHub: @codedinpastels
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Coded In Pastel's&theme=radical)](https://github.com/codedinpastels)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codedinpastels&theme=radical)](https://github.com/codedinpastels)
 
 <br>
 <br>
