@@ -25,7 +25,7 @@ GitHub: @codedinpastels
 
 ## 🌸 Portfolio
 
-[Moodboard Portfolio]([moodportfolio.vercel.app](https://moodportfolio.vercel.app/))
+[moodportfolio.vercel.app](https://moodportfolio.vercel.app/))
 
 ---
 ### 🧰 Languages and Tools:
